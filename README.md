@@ -2,7 +2,7 @@
 
 ## BACKGROUND:
 
-[Soundwave](https://soundwave-aa.herokuapp.com/#/)
+Soundwave
 is a clone of SoundCloud. A music streaming app which allows users to stream their favorite songs as well as upload their own music to the platform.
 
 <img width="1437" alt="Screen Shot 2022-01-25 at 4 16 29 PM" src="https://user-images.githubusercontent.com/53449807/151061159-d5fadbe8-b584-4bb0-8225-48ec2e998b67.png">
